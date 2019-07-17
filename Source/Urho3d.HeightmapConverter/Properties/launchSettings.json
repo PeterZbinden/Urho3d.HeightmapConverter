@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Urho3d.HeightmapConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "-b \"a| b\" \"C:\\Users\\peter\\Desktop\\test123\\input.pgm|C:\\Users\\peter\\Desktop\\test123\\output.png\""
+    }
+  }
+}
